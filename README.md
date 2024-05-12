@@ -1,4 +1,7 @@
-### VerdadeClimática: Chatbot de Combate à Desinformação sobre Mudanças Climáticas
+# VerdadeClimática: Chatbot de Combate à Desinformação sobre Mudanças Climáticas
+
+![VerdadeClimática](https://github.com/WagnerCorrey/Aula_pratica_Alura_Google/assets/169559380/cba4404f-3b30-4d57-b5ba-4412bef48064)
+
 
 ### Descrição
 
@@ -76,4 +79,4 @@ Estrutura do Projeto
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
 *Contato*
-[Wagner Correa] - [wagnerccardoso@gmail.com]
+[Wagner Correa](https://github.com/WagnerCorrey) - [wagnerccardoso@gmail.com]
