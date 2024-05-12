@@ -1,6 +1,6 @@
 # VerdadeClimática: Chatbot de Combate à Desinformação sobre Mudanças Climáticas
 
-![VerdadeClimática](https://github.com/WagnerCorrey/Aula_pratica_Alura_Google/assets/169559380/cba4404f-3b30-4d57-b5ba-4412bef48064)
+![VerdadeClimática](https://github.com/WagnerCorrey/Aula_pratica_Alura_Google/assets/169559380/e251c655-6890-4022-b9a0-8be5885bbf67)
 
 
 ### Descrição
